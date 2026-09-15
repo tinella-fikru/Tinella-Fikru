@@ -35,10 +35,8 @@
 ⭐️ *"Always learning, always building."*
 ---
 ## Listening To:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mike23rd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=mike23rd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3133bfs4m7ihujaucosq33dwf7aa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3133bfs4m7ihujaucosq33dwf7aa&redirect=true)
  
- ## Streak Status
- [![GitHub Streak](https://github-readme-streak-stats-inky-rho.vercel.app?user=tinella-fikru&theme=black-ice&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
  ## Streak Status
  [![GitHub Streak](https://github-readme-streak-stats-inky-rho.vercel.app?user=tinella-fikru&theme=black-ice&hide_border=true&background=00000000)](https://git.io/streak-stats)
